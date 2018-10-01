@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="view port" content="width=device-width, initial-scale=1.0">
+    <title> flexbox</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+  <body>
+    <div class="parent">
+      <div class="childone">
+        <img src="index.png" alt="profile">
+        <h3>Sai Chandra</h3>
+        <h3>237552835</h3>
+        <a href="mailto:saichandra7799@gmail.com">saichandra7799@gmail.com</a>
+        <h1>address</h1>
+        <hr>
+        <p>pvp coolege</p>
+      </div>
+      <div class="childtwo">
+      </div>
+    </div>
+    <script type="text/javascript" src="main.js">
+    </script>
+  </body>
+</html>
